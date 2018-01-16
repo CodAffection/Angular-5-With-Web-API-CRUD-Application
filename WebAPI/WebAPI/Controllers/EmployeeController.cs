@@ -29,11 +29,6 @@ namespace WebAPI.Controllers
         public IHttpActionResult PutEmployee(int id, Employee employee)
         {
 
-            if (id != employee.EmployeeID)
-            {
-                return BadRequest();
-            }
-
             db.Entry(employee).State = EntityState.Modified;
 
             try
