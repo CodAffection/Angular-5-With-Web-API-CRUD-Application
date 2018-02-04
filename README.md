@@ -2,8 +2,8 @@
 This is an Angular 5 App With Web API to Demonstrate CRUD Operations Insert Update and Delete With SQL Server.
 
 ###### Before Running this Project
- 1. Install npm packages using 'npm install' command.
- 2. Configure firebase project with your gmail account.
+Install npm packages using 'npm install' command.
+
  
  
  # Step By Step Explanation
