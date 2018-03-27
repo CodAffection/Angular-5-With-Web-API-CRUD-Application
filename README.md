@@ -8,10 +8,10 @@ Install npm packages using 'npm install' command.
  
  # Step By Step Explanation
  
- Video Tutorial : https://youtu.be/Ous6v0r7kXc
+ Video Tutorial : https://youtu.be/c61wr1ZsHzY
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ous6v0r7kXc
-" target="_blank"><img src="http://img.youtube.com/vi/Ous6v0r7kXc/0.jpg" 
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=c61wr1ZsHzY
+" target="_blank"><img src="http://img.youtube.com/vi/c61wr1ZsHzY/0.jpg" 
 alt="Video Tutorial for Angular 5 CRUD Using Firebase" width="500" height="400" border="10" /></a>
 
 
