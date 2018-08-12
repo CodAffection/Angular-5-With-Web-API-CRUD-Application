@@ -9,6 +9,7 @@ Install npm packages using 'npm install' command.
  # Step By Step Explanation
  
  Video Tutorial : https://youtu.be/Ous6v0r7kXc
+ Text Article : https://goo.gl/hBx4Ja
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ous6v0r7kXc
 " target="_blank"><img src="http://img.youtube.com/vi/Ous6v0r7kXc/0.jpg" 
